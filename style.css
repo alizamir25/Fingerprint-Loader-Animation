@@ -80,7 +80,7 @@
     animation-delay:calc(50ms*9);
   }
   @keyframes fingerprint-spinner-animation{
-    100% {
-      transform: rotate(360deg);
+    100%{
+      transform:rotate(360deg);
     }
   }
