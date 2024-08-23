@@ -28,14 +28,14 @@
     border-top-color: #ff012b;
     animation: fingerprint-spinner-animation 1500ms
       cubic-bezier(0.68, -0.75, 0.265, 1.75) infinite forwards;
-    margin: auto;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
+    margin:auto;
+    bottom:0;
+    left:0;
+    right:0;
+    top:0;
   }
   .fingerprint-spinner .spinner-ring:nth-child(1){
-    height: calc(90px / 9 + 0 * 90px / 9);
+    height: calc(90px/9 + 0*90px/9);
     width: calc(90px / 9 + 0 * 90px / 9);
     animation-delay: calc(50ms * 1);
   }
