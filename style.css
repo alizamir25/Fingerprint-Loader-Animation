@@ -50,9 +50,9 @@
     animation-delay:calc(50ms*3);
   }
   .fingerprint-spinner .spinner-ring:nth-child(4){
-    height: calc(90px / 9 + 3 * 90px / 9);
-    width: calc(90px / 9 + 3 * 90px / 9);
-    animation-delay: calc(50ms * 4);
+    height:calc(90px/9 + 3*90px/9);
+    width:calc(90px/9 + 3*90px/9);
+    animation-delay:calc(50ms*4);
   }
   .fingerprint-spinner .spinner-ring:nth-child(5){
     height: calc(90px / 9 + 4 * 90px / 9);
