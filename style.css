@@ -57,12 +57,12 @@
   .fingerprint-spinner .spinner-ring:nth-child(5){
     height:calc(90px/9 + 4*90px/9);
     width:calc(90px/9 + 4*90px/9);
-    animation-delay:calc(50ms * 5);
+    animation-delay:calc(50ms*5);
   }
   .fingerprint-spinner .spinner-ring:nth-child(6){
-    height: calc(90px / 9 + 5 * 90px / 9);
-    width: calc(90px / 9 + 5 * 90px / 9);
-    animation-delay: calc(50ms * 6);
+    height:calc(90px/9 + 5*90px/9);
+    width:calc(90px/9 + 5*90px/9);
+    animation-delay:calc(50ms*6);
   }
   .fingerprint-spinner .spinner-ring:nth-child(7){
     height: calc(90px / 9 + 6 * 90px / 9);
