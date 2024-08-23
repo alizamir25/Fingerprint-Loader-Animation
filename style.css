@@ -75,9 +75,9 @@
     animation-delay:calc(50ms*8);
   }
   .fingerprint-spinner .spinner-ring:nth-child(9){
-    height: calc(90px / 9 + 8 * 90px / 9);
-    width: calc(90px / 9 + 8 * 90px / 9);
-    animation-delay: calc(50ms * 9);
+    height:calc(90px/9 + 8*90px/9);
+    width:calc(90px/9 + 8*90px/9);
+    animation-delay:calc(50ms*9);
   }
   @keyframes fingerprint-spinner-animation{
     100% {
