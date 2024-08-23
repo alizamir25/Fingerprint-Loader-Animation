@@ -65,9 +65,9 @@
     animation-delay:calc(50ms*6);
   }
   .fingerprint-spinner .spinner-ring:nth-child(7){
-    height: calc(90px / 9 + 6 * 90px / 9);
-    width: calc(90px / 9 + 6 * 90px / 9);
-    animation-delay: calc(50ms * 7);
+    height:calc(90px/9 + 6*90px/9);
+    width:calc(90px/9 + 6*90px/9);
+    animation-delay:calc(50ms*7);
   }
   .fingerprint-spinner .spinner-ring:nth-child(8){
     height: calc(90px / 9 + 7 * 90px / 9);
