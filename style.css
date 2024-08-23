@@ -8,7 +8,7 @@
     left: 0;
     top: 0;
     z-index: 99999;
-    background: #1d1c22;
+    background: #2b2a30;
   }
   .fingerprint-spinner,
   .fingerprint-spinner * {
@@ -25,7 +25,7 @@
     position: absolute;
     border-radius: 50%;
     border: 2px solid transparent;
-    border-top-color: #ff014f;
+    border-top-color: #ff012b;
     animation: fingerprint-spinner-animation 1500ms
       cubic-bezier(0.68, -0.75, 0.265, 1.75) infinite forwards;
     margin: auto;
